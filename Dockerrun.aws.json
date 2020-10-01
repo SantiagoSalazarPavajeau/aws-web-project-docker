@@ -1,7 +1,7 @@
 {
     "AWSEBDockerrunVersion": "1",
     "Image": {
-        "Name": "162165190949.dkr.ecr.us-east-1.amazonaws.com/aws-web-project-docker"
+        "Name": "162165190949.dkr.ecr.us-east-1.amazonaws.com/aws-web-project"
     },
     "Ports": [{
         "ContainerPort": 8080,
